@@ -54,3 +54,8 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
+.my-style {
+    color: red;
+    background-color: black;
+    padding: 5px;
+}
